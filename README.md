@@ -1,6 +1,6 @@
 # Hi, I'm Paschal 👋
 
-Full stack developer building web apps for real businesses, not demo projects. I write React and Next.js by day and think in car specs the rest of the time. If it has an engine and a screen, I probably have an opinion on it.
+Full stack developer building web apps for real businesses. I write React and Next.js by day and think in car specs the rest of the time. If it has an engine and a screen I probably have an opinion on it.
 
 ## What I work with
 
