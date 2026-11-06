@@ -10,7 +10,6 @@ TypeScript · JavaScript · React · Next.js (App Router, Turbopack) · Tailwind
 
 - **[Polanco Ops Hub](https://project-6rmw6.vercel.app/cars)** — an internal operations PWA I built unprompted for a luxury car dealership in Lagos, replacing their WhatsApp and Excel workflow with real inventory sync, a lead pipeline and automated deal sheet PDFs. They never asked for it. I built it anyway to prove I could.
 - **[PZ Autos](https://pz-autos.vercel.app/)** — my own car sales business, marketing site and custom admin system included. I built the software that runs the business I own.
-- **[Sterling Capital Exchange](https://sterlingcapitalexchange.com/)** — a simulated multi-asset trading platform with spot, forex and options, wallet system and live auth.
 - **Freight and logistics platform** — a shipping company site split into public marketing, customer portal and admin app, currently in progress.
 
 ## Background
